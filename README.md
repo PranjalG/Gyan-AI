@@ -11,6 +11,13 @@
 
 ---
 
+## YouTube Demo Links
+
+- Demo Video 1: [https://www.youtube.com/watch?v=rUcBEQO7k-8](https://www.youtube.com/watch?v=rUcBEQO7k-8)
+- Demo Video 2: [https://www.youtube.com/watch?v=dhTX5heMs4E](https://www.youtube.com/watch?v=dhTX5heMs4E)
+
+---
+
 ## Quick start
 
 ### 1. Supabase setup
