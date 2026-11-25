@@ -11,6 +11,10 @@
 
 ---
 
+<img width="1672" height="941" alt="GyanAI Healthcare Data Platform" src="https://github.com/user-attachments/assets/d256083c-9e7e-4cbf-8f93-25272c4a8017" />
+
+---
+
 ## YouTube Demo Links
 
 - Demo Video 1: [https://www.youtube.com/watch?v=rUcBEQO7k-8](https://www.youtube.com/watch?v=rUcBEQO7k-8)
